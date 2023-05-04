@@ -141,3 +141,87 @@
     font-size: 19px;
 }
 
+.get{
+  font-size: 19px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 60px;
+  text-align: center;
+}
+
+.plans{
+  margin-top: 30px;
+  width: 220px;
+  padding: 17px;
+  display: block;
+  border-radius: 30px;
+  font-size: 19px;
+  border: 0;
+  margin-bottom: 100px;
+  margin-left: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: auto;
+  background-color:#053070 ;
+  color: white;
+}
+
+.choose{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 7px;
+  font-size: 35px;
+  font-weight: 550;
+  text-align: center;
+  color: #053070 ;
+}
+
+.week{
+  font-size: 62px;
+  font-weight: 550;
+  text-align: center;
+  margin-bottom: 50px;
+  color: #00a0df;
+}
+
+.meals{
+  padding-bottom: 50px;
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+  width: 95%;
+  gap: 35px;
+  margin: auto;
+}
+.meals img{
+  width: 100%;
+  display: block;
+}
+
+.abc{
+  color: #0a377a ;
+  font-weight: 550;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 10px;
+  text-align: center;
+}
+.veg{
+  font-weight: 550;
+  font-size: 18px;
+  color:rgb(105, 102, 102) ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.browse{
+  margin-top: 30px;
+  width: 320px;
+  padding: 17px;
+  display: block;
+  border-radius: 30px;
+  font-size: 20px;
+  border: 0;
+  margin-bottom: 50px;
+  margin-left: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: auto;
+  color: rgb(24, 24, 117);
+  border: 3px solid rgb(12, 12, 121);
+}
